@@ -1,6 +1,6 @@
 # Minecraft Hotkey Chart Generator
 
-![alt text](screenshots/screenshot_1.png)
+![alt text](https://github.com/abdxdev/minecraft-hotkey-map/blob/main/screenshots/screenshot_1.png?raw=true)
 
 ## Video Demo:
 
